@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In this project, let's build a **Comments App** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
@@ -151,3 +152,6 @@ console.log(formatDistanceToNow(new Date())) // less than a minute
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+=======
+# Comment
+>>>>>>> ce8de72878fd1fe27e6af52ade6a951a4bf4a4a9
